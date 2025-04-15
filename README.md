@@ -23,8 +23,8 @@ Sou apaixonado por tecnologia e desenvolvimento de sistemas. Atuo como desenvolv
 
 | Projeto | Descrição | Link |
 |--------|------------|------|
-| Sistema de Estoque em Laravel | Sistema completo de controle de estoque | [Ver Projeto](https://github.com/SEU_USUARIO/projeto-estoque) |
-| Integração IA com n8n | Workflow com IA generativa e automações | [Ver Projeto](https://github.com/SEU_USUARIO/workflow-ia) |
+| Sistema de Estoque em Laravel | Sistema completo de controle de estoque | [em Breve](https://github.com/#) |
+| Integração IA com n8n | Workflow com IA generativa e automações | [em Breve](https://github.com/#) |
 
 ---
 
